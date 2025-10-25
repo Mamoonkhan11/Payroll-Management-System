@@ -107,7 +107,7 @@ Represents a freelancer.
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mamoonkhan11/Payroll-Management-System
 ```
 
 2. Compile the code:
@@ -127,7 +127,7 @@ g++ main.cpp employee.cpp -o EmployeeApp
 ## Code Structure
 
 ```
-.
+PAYROLL MANAGEMENT SYSTEM
 ├── employee.h         
 ├── employee.cpp       
 ├── main.cpp           
